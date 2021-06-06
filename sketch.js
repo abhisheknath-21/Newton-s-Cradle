@@ -13,7 +13,7 @@ function setup() {
 	world = engine.world;
 	
 	fill("red");
-	strokeWeight(10);
+	//strokeWeight(10);
 	text("Press the 'Right Arrow Key' to start the Newton's Cradle", 400, 600);
 
 	roofObject = new Roof(380,50);
